@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "@actions/core": "^1.6.0"
-  }
+    "@actions/core": "^1.6.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "name": "writing-javascript-actions",
+  "description": "### Getting started",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matmar10/writing-javascript-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matmar10/writing-javascript-actions/issues"
+  },
+  "homepage": "https://github.com/matmar10/writing-javascript-actions#readme"
 }
